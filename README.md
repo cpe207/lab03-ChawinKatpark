@@ -3,7 +3,7 @@
 
 ให้นักศึกษาปรับปรุงเว็บไซต์ Portfolio ซึ่งแสดงซึ่งนักศึกษาได้พัฒนาไว้ใน Lab 02 ให้สวยงามขึ้นโดยอาศัย Bootstrap CSS
 
-[คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQ6l9WirYQ5GhUBABHB5BiUBQNhFHbzaaUAxFSTsH_72uA?e=ED20AS)
+[คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/personal/dome_potikanond_cmu_ac_th/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdome%5Fpotikanond%5Fcmu%5Fac%5Fth%2FDocuments%2Fcpe207%2Flabs%2Flab%2D03%2F261207%5Flab%5F03%2Epdf&parent=%2Fpersonal%2Fdome%5Fpotikanond%5Fcmu%5Fac%5Fth%2FDocuments%2Fcpe207%2Flabs%2Flab%2D03&ga=1)
 
  <strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-ChawinKatpark/index.html</strong>
 
